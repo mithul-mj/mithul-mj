@@ -12,17 +12,17 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a Computer Software Engineering diploma holder from **MTI, Thrissur**, currently enhancing my skills through a **MERN Stack program at Brototype**.
+I am a Computer Software Engineering diploma holder from **MTI, Thrissur**, currently enhancing my skills through a MERN Stack program at **Brototype**.
 
-My technical background includes:
+My technical experience includes:
 
 - Web Development using **PHP & MySQL**
-- Backend development using **Node.js & Express**
-- Database systems including **MongoDB & Redis**
-- Android development using **Android Studio**
+- Backend Development using **Node.js & Express**
+- Databases including **MongoDB & Redis**
+- Android App Development using **Android Studio**
 - Foundational knowledge in Machine Learning
 
-I am focused on building scalable backend systems and improving my problem-solving abilities through real-world projects.
+I am focused on building scalable backend systems and continuously improving my technical expertise.
 
 ---
 
@@ -45,44 +45,44 @@ I am focused on building scalable backend systems and improving my problem-solvi
 # 📌 Projects
 
 ## 🎄 Santa Terrace Navigator
-A simple web application built during the **SANTAKKORU App Christmas Online Hackathon at Brototype**.
+A simple web application built during the SANTAKKORU App Christmas Online Hackathon at Brototype.
 
 - Frontend-based web project
 - Interactive landing logic concept
 - Clean UI implementation
-- Hackathon participation project
 
 ---
 
 ## 🪴 Plant Disease Detection System
 - Django backend with TensorFlow integration
 - Image upload and prediction API
-- Automatic PDF report generation
-- REST API architecture
+- Automated PDF report generation
+- REST architecture
 
 ---
 
 ## 🎮 Multiplayer Game Backend
 - 10-round match system
 - 3-second move timer logic
-- Score tracking and result handling
-- Backend game state management
+- Score tracking and game state handling
 
 ---
 
 ## 🍽️ Restaurento – Dineout + Pre-Booking Platform
 - MERN stack architecture
-- Restaurant listing & booking system
-- Wishlist and user management
-- RESTful API structure
+- Booking & wishlist system
+- Structured REST APIs
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mithul-mj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithul-mj&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
 </p>
 
 ---
@@ -90,18 +90,20 @@ A simple web application built during the **SANTAKKORU App Christmas Online Hack
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=mithul-mj&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourlinkedin  
-- 📧 Email: youremail  
+- 💼 LinkedIn: https://linkedin.com/in/yourlinkedin
+- 📧 Email: youremail
 
 ---
 
 <p align="center">
-  Focused on backend development and continuous technical growth.
+Focused on backend development and continuous technical growth.
 </p>
