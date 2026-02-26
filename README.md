@@ -12,17 +12,17 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a Computer Software Engineering diploma holder from **MTI, Thrissur**, currently enhancing my skills through a MERN Stack program at **Brototype**.
+I am a Computer Software Engineering diploma holder from **MTI, Thrissur**, currently advancing my skills through a MERN Stack program at **Brototype**.
 
 My technical experience includes:
 
-- Web Development using **PHP & MySQL**
-- Backend Development using **Node.js & Express**
-- Databases including **MongoDB & Redis**
-- Android App Development using **Android Studio**
-- Foundational knowledge in Machine Learning
+- 🌐 Web Development using **PHP & MySQL**
+- ⚙️ Backend Development using **Node.js & Express**
+- 🗄️ Databases including **MongoDB & Redis**
+- 📱 Android App Development using **Android Studio**
+- 🤖 Foundational knowledge in Machine Learning
 
-I am focused on building scalable backend systems and continuously improving my technical expertise.
+I focus on building scalable backend systems and continuously improving my problem-solving and system design abilities.
 
 ---
 
@@ -45,26 +45,27 @@ I am focused on building scalable backend systems and continuously improving my 
 # 📌 Projects
 
 ## 🎄 Santa Terrace Navigator
-A simple web application built during the SANTAKKORU App Christmas Online Hackathon at Brototype.
+Simple web application built during the **SANTAKKORU App Christmas Online Hackathon at Brototype**.
 
-- Frontend-based web project
-- Interactive landing logic concept
+- Interactive landing concept
 - Clean UI implementation
+- Hackathon participation project
 
 ---
 
 ## 🪴 Plant Disease Detection System
 - Django backend with TensorFlow integration
-- Image upload and prediction API
+- Image upload & prediction API
 - Automated PDF report generation
-- REST architecture
+- RESTful architecture
 
 ---
 
 ## 🎮 Multiplayer Game Backend
 - 10-round match system
-- 3-second move timer logic
-- Score tracking and game state handling
+- 3-second move timer
+- Score tracking & state management
+- Backend logic implementation
 
 ---
 
@@ -75,24 +76,10 @@ A simple web application built during the SANTAKKORU App Christmas Online Hackat
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Contribution Overview
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mithul-mj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithul-mj&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mithul-mj&theme=github-dark&hide_border=true"/>
-
+  <img src="https://ghchart.rshah.org/409ba5/mithul-mj" alt="Mithul MJ Github Contribution Graph" />
 </p>
 
 ---
@@ -105,5 +92,5 @@ A simple web application built during the SANTAKKORU App Christmas Online Hackat
 ---
 
 <p align="center">
-Focused on backend development and continuous technical growth.
+Focused on backend development, scalability, and continuous technical growth.
 </p>
