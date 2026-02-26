@@ -1,71 +1,93 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Mithul%20MJ&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Mithul%20MJ&fontSize=36&fontColor=ffffff" />
 </p>
 
 # Hi 👋 I'm Mithul MJ
 
-### 🚀 Backend Developer | MERN Stack | API & System Builder
+### Aspiring Full-Stack Developer | MERN Stack
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 Diploma in Computer Engineering  
-- 💻 Backend-focused developer  
-- 🌱 Learning MERN Stack & scalable systems  
-- 🔥 Interested in Backend Architecture & Real-time Apps  
+I am a Computer Software Engineering diploma holder from **MTI, Thrissur**, currently enhancing my skills through a **MERN Stack program at Brototype**.
+
+My technical background includes:
+
+- Web Development using **PHP & MySQL**
+- Backend development using **Node.js & Express**
+- Database systems including **MongoDB & Redis**
+- Android development using **Android Studio**
+- Foundational knowledge in Machine Learning
+
+I am focused on building scalable backend systems and improving my problem-solving abilities through real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
-![Languages](https://skillicons.dev/icons?i=c,java,python,js)
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,java,python,js,php)
 
-### ⚙️ Backend & Frameworks
-![Backend](https://skillicons.dev/icons?i=nodejs,express,django)
+### ⚙️ Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,django)
 
-### 🗄️ Database
-![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)
+### 🗄️ Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,redis)
 
-### 📱 Mobile & Tools
+### 📱 Tools & Technologies
 ![Tools](https://skillicons.dev/icons?i=androidstudio,git,github,vscode,postman)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Projects
 
-### 🪴 Plant Disease Detection System
-- Django + TensorFlow backend
-- AI image prediction API
-- Auto PDF report generation
-- Android app integration
+## 🎄 Santa Terrace Navigator
+A simple web application built during the **SANTAKKORU App Christmas Online Hackathon at Brototype**.
 
-### 🎮 Multiplayer Game API
-- 10-round match logic
-- Real-time move timer
-- Score tracking system
-- Game state management
-
-### 🍽️ Restaurento
-- Dine-out + food pre-booking
-- MERN stack architecture
-- Wishlist & booking system
+- Frontend-based web project
+- Interactive landing logic concept
+- Clean UI implementation
+- Hackathon participation project
 
 ---
 
-## 📊 GitHub Statistics
+## 🪴 Plant Disease Detection System
+- Django backend with TensorFlow integration
+- Image upload and prediction API
+- Automatic PDF report generation
+- REST API architecture
+
+---
+
+## 🎮 Multiplayer Game Backend
+- 10-round match system
+- 3-second move timer logic
+- Score tracking and result handling
+- Backend game state management
+
+---
+
+## 🍽️ Restaurento – Dineout + Pre-Booking Platform
+- MERN stack architecture
+- Restaurant listing & booking system
+- Wishlist and user management
+- RESTful API structure
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark&hide_border=true"/>
@@ -73,15 +95,7 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/yourlinkedin  
 - 📧 Email: youremail  
@@ -89,5 +103,5 @@
 ---
 
 <p align="center">
-  💡 Building backend systems that power real-world applications.
+  Focused on backend development and continuous technical growth.
 </p>
