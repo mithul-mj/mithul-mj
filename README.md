@@ -1,11 +1,12 @@
-<!-- ======================= BANNER ======================= -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Mithul%20MJ&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Mithul%20MJ&fontSize=38&fontColor=ffffff" />
 </p>
 
 # Hi 👋 I'm Mithul MJ
 
-### 🚀 Backend Developer | MERN Stack Learner | API Builder
+### 🚀 Backend Developer | MERN Stack | API & System Builder
 
 ---
 
@@ -13,9 +14,8 @@
 
 - 🎓 Diploma in Computer Engineering  
 - 💻 Backend-focused developer  
-- 🌱 Currently learning **MERN Stack**
-- 🔥 Passionate about building scalable backend systems  
-- ⚡ Interested in System Design & Real-time Applications  
+- 🌱 Learning MERN Stack & scalable systems  
+- 🔥 Interested in Backend Architecture & Real-time Apps  
 
 ---
 
@@ -28,67 +28,55 @@
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,django)
 
 ### 🗄️ Database
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)
 
-### 🧰 Tools & Others
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+### 📱 Mobile & Tools
+![Tools](https://skillicons.dev/icons?i=androidstudio,git,github,vscode,postman)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🪴 Plant Disease Detection System
-- Django + TensorFlow based prediction system
-- Image upload → AI Prediction → PDF report generation
-- REST API integration
-- Android client integration
+- Django + TensorFlow backend
+- AI image prediction API
+- Auto PDF report generation
+- Android app integration
 
----
+### 🎮 Multiplayer Game API
+- 10-round match logic
+- Real-time move timer
+- Score tracking system
+- Game state management
 
-### 🎮 Stone Paper Scissors Multiplayer API
-- Real-time 10-round match system
-- 3-second move timer logic
-- Score tracking & match result handling
-- Backend game logic implementation
-
----
-
-### ⌨️ Typing Race Website
-- Admin-controlled race start
-- Real-time WPM ranking
-- Unique username validation
-- Database storage of attempts
-
----
-
-### 🍽️ Restaurento (Dineout + Prebooking)
-- Restaurant browsing & food pre-booking system
-- Wishlist & booking features
+### 🍽️ Restaurento
+- Dine-out + food pre-booking
 - MERN stack architecture
+- Wishlist & booking system
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -101,5 +89,5 @@
 ---
 
 <p align="center">
-  💡 “Building backend systems that power real-world applications.”
+  💡 Building backend systems that power real-world applications.
 </p>
