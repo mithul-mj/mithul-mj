@@ -61,32 +61,10 @@ A simple web application built during the SANTAKKORU App Christmas Online Hackat
 
 ---
 
-## 🎮 Multiplayer Game Backend
-- 10-round match system
-- 3-second move timer logic
-- Score tracking and game state handling
-
----
-
 ## 🍽️ Restaurento – Dineout + Pre-Booking Platform
 - MERN stack architecture
 - Booking & wishlist system
 - Structured REST APIs
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/mithul-mj" alt="Mithul MJ Contribution Graph"/>
-</p>
-
----
-# 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithul-mj&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
@@ -102,8 +80,8 @@ A simple web application built during the SANTAKKORU App Christmas Online Hackat
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourlinkedin
-- 📧 Email: youremail
+- 💼 LinkedIn: https://linkedin.com/in/mithul-mj
+- 📧 Email: mithulmj2004@gmail.com
 
 ---
 
